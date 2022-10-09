@@ -1,0 +1,14 @@
+﻿  Accountant.cpp
+C:\Users\Rana ZaYn\source\repos\Project9\Accountant.cpp(258,15): warning C4101:  'j': unreferenced local variable
+C:\Users\Rana ZaYn\source\repos\Project9\Accountant.cpp(258,12): warning C4101:  'i': unreferenced local variable
+  Admin.cpp
+  Source.cpp
+  list.cpp
+  manager.cpp
+C:\Users\Rana ZaYn\source\repos\Project9\Accountant.cpp(258,6): warning C4101:  'size': unreferenced local variable
+C:\Users\Rana ZaYn\source\repos\Project9\manager.cpp(186,29): warning C4101:  'cnt': unreferenced local variable
+C:\Users\Rana ZaYn\source\repos\Project9\manager.cpp(186,15): warning C4101:  'j': unreferenced local variable
+C:\Users\Rana ZaYn\source\repos\Project9\manager.cpp(186,12): warning C4101:  'i': unreferenced local variable
+  Generating Code...
+C:\Users\Rana ZaYn\source\repos\Project9\manager.cpp(186,6): warning C4101:  'size': unreferenced local variable
+  Project9.vcxproj -> C:\Users\Rana ZaYn\source\repos\Project9\x64\Debug\Project9.exe
