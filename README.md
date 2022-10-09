@@ -1,25 +1,3 @@
-Data Structure & Algorithms
-CSC 221
-
-PROJECT REPORT
-
-
-
-
-
-MIAN AFZAAL ZAHOOR
-01-134182-094
-
-
-
-SUBMITTED TO: Sir Syed Saqlain Hassan
-DATE OF SUBMITTION: 26th December, 2019
-
-
-
-
-Department of Computer Sciences
-BAHRIA UNIVERSITY, ISLAMABAD
 School Management System For Administration And Accountant
 
 Introduction:
